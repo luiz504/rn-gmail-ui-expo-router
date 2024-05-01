@@ -1,5 +1,6 @@
 import { ComponentProps, FC } from 'react'
 import { ActivityIndicator } from 'react-native'
+
 import { cn } from '~/utils/cn'
 
 type Props = ComponentProps<typeof ActivityIndicator>

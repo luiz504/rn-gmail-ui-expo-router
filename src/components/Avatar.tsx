@@ -1,5 +1,6 @@
 import { FC } from 'react'
 import { Image, ImageProps } from 'react-native'
+
 import { cn } from '~/utils/cn'
 
 type AvatarProps = ImageProps & {

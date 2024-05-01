@@ -1,5 +1,6 @@
 import { ComponentProps, FC } from 'react'
 import { TextInput, TextInputProps, View } from 'react-native'
+
 import { COLORS } from '~/styles'
 import { cn } from '~/utils/cn'
 

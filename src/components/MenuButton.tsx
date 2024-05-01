@@ -1,6 +1,7 @@
-import { MaterialIcons } from '@expo/vector-icons'
 import { FC } from 'react'
 import { Pressable, PressableProps } from 'react-native'
+import { MaterialIcons } from '@expo/vector-icons'
+
 import { COLORS } from '~/styles'
 import { cn } from '~/utils/cn'
 
