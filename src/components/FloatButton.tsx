@@ -18,7 +18,7 @@ export const FloatButton: FC<FloatButtonProps> = ({
     <TouchableOpacity
       className={cn([
         'absolute bottom-4 right-4',
-        'px-8 py-4 bg-gray-600 rounded-full gap-1',
+        'px-4 py-3 bg-gray-600 rounded-full gap-1',
         'flex-row items-center',
         className,
       ])}
